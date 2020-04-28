@@ -1,0 +1,20 @@
+h1 {
+color: red;
+text-align :center;
+border: solid;
+}
+
+h2 {
+    color: blue; 
+    font-family:verdana;
+}
+
+h3 {
+    color: yellowgreen; 
+    font-size:30px;
+}
+
+p {
+    font-size:20px;
+    text-align:right;
+}
